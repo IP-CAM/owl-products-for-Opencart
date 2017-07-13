@@ -1,11 +1,9 @@
-
 <div class="row box box-inner-padding">
   <h3 class="box-title"><?php echo $heading_title; ?></h3>
   <div id="owl-latest" class="owl-latest owl-theme">
       <?php foreach ($products as $product) { ?>
       <div class="product-layout item">
         <div class="product-thumb transition">
-
 
           <div class="image imghvr-zoom-in" style="background-color:#fff;">
             <img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive" />

@@ -5,42 +5,50 @@
 !.gitignore
 !LICENSE
 !README.md
+!admin/controller/extension/module/owlproducts.php
 !admin/controller/extension/module/owlbestseller.php
 !admin/controller/extension/module/owlfeatured.php
 !admin/controller/extension/module/owllatest.php
 !admin/controller/extension/module/owlspecial.php
 
+!admin/language/en-gb/extension/module/owlproducts.php
 !admin/language/en-gb/extension/module/owlbestseller.php
 !admin/language/en-gb/extension/module/owlfeatured.php
 !admin/language/en-gb/extension/module/owllatest.php
 !admin/language/en-gb/extension/module/owlspecial.php
 
+!admin/language/fa-ir/extension/module/owlproducts.php
 !admin/language/fa-ir/extension/module/owlbestseller.php
 !admin/language/fa-ir/extension/module/owlfeatured.php
 !admin/language/fa-ir/extension/module/owllatest.php
 !admin/language/fa-ir/extension/module/owlspecial.php
 
+!admin/view/template/extension/module/owlproducts.php
 !admin/view/template/extension/module/owlbestseller.php
 !admin/view/template/extension/module/owlfeatured.php
 !admin/view/template/extension/module/owllatest.php
 !admin/view/template/extension/module/owlspecial.php
 
 
+!catalog/controller/extension/module/owlproducts.php
 !catalog/controller/extension/module/owlbestseller.php
 !catalog/controller/extension/module/owlfeatured.php
 !catalog/controller/extension/module/owllatest.php
 !catalog/controller/extension/module/owlspecial.php
 
+!catalog/language/en-gb/extension/module/owlproducts.php
 !catalog/language/en-gb/extension/module/owlbestseller.php
 !catalog/language/en-gb/extension/module/owlfeatured.php
 !catalog/language/en-gb/extension/module/owllatest.php
 !catalog/language/en-gb/extension/module/owlspecial.php
 
+!catalog/language/fa-ir/extension/module/owlproducts.php
 !catalog/language/fa-ir/extension/module/owlbestseller.php
 !catalog/language/fa-ir/extension/module/owlfeatured.php
 !catalog/language/fa-ir/extension/module/owllatest.php
 !catalog/language/fa-ir/extension/module/owlspecial.php
 
+!catalog/view/theme/default/template/extension/module/owlproducts.php
 !catalog/view/theme/default/template/extension/module/owlbestseller.php
 !catalog/view/theme/default/template/extension/module/owlfeatured.php
 !catalog/view/theme/default/template/extension/module/owllatest.php
